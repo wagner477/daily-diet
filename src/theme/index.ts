@@ -16,6 +16,9 @@ export default {
     GRAY_6: "#DDDEDF",
     GRAY_7: "#FAFAFA",
     GRAY_8: "#FFFFFF",
+
+    WHITE: "#FFFFFF",
+    BLACK: "#000000",
   },
 
   FONT_FAMILY: {
